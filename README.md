@@ -1,2 +1,10 @@
 # 5_Predict-Traffic-Congestion_202401100400065_AyushPatel
-This project aims to predict traffic congestion levels—High, Medium, or Low—based on traffic sensor data. With the increasing need for smarter traffic management in urban areas, this machine learning solution provides a reliable way to classify congestion levels and support proactive traffic planning
+🚦 Traffic Congestion Prediction with Random Forest
+This project uses machine learning to predict traffic congestion levels (High, Medium, Low) based on sensor count, average vehicle speed, and time of day. It applies a Random Forest Classifier to analyze the data and classify congestion effectively.
+
+The dataset is explored using visualizations like histograms, bar charts, boxplots, and heatmaps to understand trends and relationships. After encoding categorical variables, the model is trained and tested using an 80/20 split.
+
+The model’s performance is evaluated using a classification report and confusion matrix, showing strong accuracy and reliability.
+
+This tool can assist city planners and traffic authorities in making smarter, data-driven decisions for traffic management.
+
